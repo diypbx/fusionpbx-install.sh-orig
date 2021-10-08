@@ -1,8 +1,8 @@
 
 # FusionPBX Settings
-domain_name=ip_address          # hostname, ip_address or a custom value
+domain_name=demo.diypbx.co.uk          # hostname, ip_address or a custom value
 system_username=admin           # default username admin
-system_password=random          # random or a custom value
+system_password=1qaz1qaz1qaz          # random or a custom value
 system_branch=master            # master, stable
 
 # FreeSWITCH Settings
